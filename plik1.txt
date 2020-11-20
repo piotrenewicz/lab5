@@ -1,1 +1,2 @@
 plik1 linia1
+plik1 linia2
